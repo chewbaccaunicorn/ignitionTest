@@ -23,7 +23,7 @@
               "fit": {
                 "height": 80,
                 "mode": "absolute",
-                "width": 240
+                "width": 600
               },
               "source": "/system/images/sample-images/quick-start.png"
             },
