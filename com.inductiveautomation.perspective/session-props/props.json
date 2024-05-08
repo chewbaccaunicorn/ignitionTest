@@ -56,10 +56,10 @@
     }
   },
   "props": {
-    "address": "172.18.0.2",
+    "address": "127.0.0.1",
     "device": {},
     "geolocation": {},
-    "locale": "en-US",
-    "timeZoneId": "Etc/UTC"
+    "locale": "en-NO",
+    "timeZoneId": "Europe/Oslo"
   }
 }
